@@ -184,7 +184,7 @@ export class ParticleSystem {
         const isWomensDay = today.getMonth() === 2 && today.getDate() === 8;
 
         if (isWomensDay) {
-            ctx.font = 'bold 150px Orbitron, sans-serif';
+            ctx.font = 'bold 80px Orbitron, sans-serif';
             ctx.fillText('¡¡FELIZ DIA DE LA MUJER!!', 600, 150);
         } else {
             ctx.font = 'bold 80px Outfit, sans-serif';
