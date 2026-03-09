@@ -185,7 +185,7 @@ export class ParticleSystem {
 
         if (isWomensDay) {
             ctx.font = 'bold 150px Orbitron, sans-serif';
-            ctx.fillText('¡¡Feliz Dia!!', 600, 150);
+            ctx.fillText('¡¡FELIZ DIA DE LA MUJER!!', 600, 150);
         } else {
             ctx.font = 'bold 80px Outfit, sans-serif';
             ctx.fillText('Hoy celebramos tu fuerza.', 600, 100);

@@ -122,7 +122,7 @@ class App {
         if (today.getMonth() === 2 && today.getDate() === 8) {
             const loveLabel = document.getElementById('gesture-indicator-love');
             if (loveLabel) {
-                loveLabel.innerHTML = '<span class="emoji">👌</span> ¡¡Feliz Dia!!';
+                loveLabel.innerHTML = '<span class="emoji">👌</span> ¡¡FELIZ DIA DE LA MUJER!!';
             }
         }
 
